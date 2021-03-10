@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B2CF6379-10E7-4CE0-8540-7B7F374D0009"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7D6190A-BDC0-46B6-9148-7050E9489E79"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NASAapod/DataProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getApodData(url:type:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7D6190A-BDC0-46B6-9148-7050E9489E79 - 803fd55d2b7a21cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NASAapod.DataProvider.getApodData&lt;A where A: Swift.Decodable, A: Swift.Encodable&gt;(url: Foundation.URL, type: A.Type, completionHandler: Swift.Optional&lt;(Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NASAapod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/NASAapod/NASAapod/DataProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "269">
+               </Location>
+               <Location
+                  uuid = "C7D6190A-BDC0-46B6-9148-7050E9489E79 - c5c9bb6100e89da4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NASAapod.DataProvider.getApodData&lt;A where A: Swift.Decodable, A: Swift.Encodable&gt;(url: Foundation.URL, type: A.Type, completionHandler: Swift.Optional&lt;(Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NASAapod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/NASAapod/NASAapod/DataProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49B6799F-A4CA-4959-9266-C5CD1958E1D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NASAapod/View Model/ApodViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getDataFromProvider(url:apodVMHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6A061C1-5FA1-41BE-A0EF-F0989857D889"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NASAapod/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A6A061C1-5FA1-41BE-A0EF-F0989857D889 - 3cf30fbe7765101e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NASAapod.ViewController.fetchData() -&gt; ()"
+                  moduleName = "NASAapod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/NASAapod/NASAapod/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "447">
+               </Location>
+               <Location
+                  uuid = "A6A061C1-5FA1-41BE-A0EF-F0989857D889 - ee75f4927a3e231"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in NASAapod.ViewController.fetchData() -&gt; ()"
+                  moduleName = "NASAapod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/NASAapod/NASAapod/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "135">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1513315E-34A2-4695-AFB2-E2A89A62C4D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NASAapod/DataProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getApodData(url:type:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F9FA26C-0C9C-40BF-94ED-1DD6BCD3B3A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NASAapod/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4F9FA26C-0C9C-40BF-94ED-1DD6BCD3B3A5 - 3cf30fbe7765101e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NASAapod.ViewController.fetchData() -&gt; ()"
+                  moduleName = "NASAapod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/NASAapod/NASAapod/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "447">
+               </Location>
+               <Location
+                  uuid = "4F9FA26C-0C9C-40BF-94ED-1DD6BCD3B3A5 - ee75f4927a3e231"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in NASAapod.ViewController.fetchData() -&gt; ()"
+                  moduleName = "NASAapod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/NASAapod/NASAapod/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "135">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
