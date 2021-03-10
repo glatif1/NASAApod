@@ -1,7 +1,6 @@
 # NASAApod
 Pull Info from NASA
 
-# Dependencies: 
- Using Cocoa Pod
+# Dependencies (Using CocoaPods):
 
 SDWebImage
